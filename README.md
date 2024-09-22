@@ -1,3 +1,4 @@
 # spotiyclone
-Spotify clone using HTML&amp;CSS
+Spotify clone using HTML&CSS
+
 all assets available in zip file
